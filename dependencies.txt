@@ -1,0 +1,4 @@
+revChatGPT
+BingImageCreator
+moviepy
+elevenlabs
